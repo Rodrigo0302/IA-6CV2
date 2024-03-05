@@ -8,7 +8,7 @@ def buscar_solucion_DFS(estado_inicial, solucion):
     nodoInicial = Nodo(estado_inicial)
     nodos_frontera.append(nodoInicial)
     
-    #SE AGREGARON REALIZARON PRUEBAS UTILIZANDO PRINTS PARA VERIFICAR EL FLUJO DE LOS DATOS
+    #SE  REALIZARON PRUEBAS UTILIZANDO PRINTS PARA VERIFICAR EL FLUJO DE LOS DATOS
     # E IDENTIFICAR EL ERROR DEL CODIGO, EL CUAL SE EJECUTABA INDEFINIDAMENTE
     while (not solucionado) and len(nodos_frontera) != 0 :        
         nodo = nodos_frontera.pop()
