@@ -1,2 +1,2 @@
-#Material del Curso de Inteligencia Artificial
-Recopilaicon de practicas, proyectos y codigos del curso de Inteligencia Artificial
+## Material del Curso de Inteligencia Artificial
+Recopilacion de practicas, proyectos y codigos del curso de Inteligencia Artificial
